@@ -1,0 +1,68 @@
+  <div class="container">
+          <div class="row">
+            <div class="col-sm-2">
+          <span class="text-success">GET </span>
+          </div>
+          <div class="col-sm-5">
+            <p>GET Role by Id &nbsp;<i class="fa fa-lock"></i></p>
+          </div>
+          </div>
+          <div class="row">
+            <table class="table table-striped bg-muted"><tr><td>http://localhost:8080/api/role</td></tr></table>
+          </div>
+          <div class="row">
+            <table class="table">
+              <thead>
+                  <tr>
+                    <th>AUTHORIZATION</th>
+                    <th>Bearer Token</th>
+                   
+                  </tr>
+              </thead>
+                  <tbody>
+                  <tr>
+                      <td>This request is using Bearer Token from collection</td>
+                      <td class="text-danger">TEMP</td>
+                   </tr>
+          
+                  </tbody>
+          </table>
+          </div>
+            </div>
+                      <div class="container">
+                            <div class="row">
+                              <div class="col-sm-2">
+                            <span class="text-warning">POST </span>
+                            </div>
+                            <div class="col-sm-5">
+                              <p>POST Add a Role  &nbsp;<i class="fa fa-lock"></i></p>
+                            </div>
+                            </div>
+                            <div class="row">
+                              <table class="table table-striped bg-muted"><tr><td>http://localhost:8080/api/role</td></tr></table>
+                            </div>
+                            <div class="row">
+                              <table class="table">
+                                <thead>
+                                    <tr>
+                                      <th>AUTHORIZATION</th>
+                                      <th>Bearer Token</th>
+                                     
+                                    </tr>
+                                </thead>
+                                    <tbody>
+                                    <tr>
+                                        <td>This request is using Bearer Token from collection</td>
+                                        <td class="text-danger">TEMP</td>
+                                     </tr>
+                            
+                                    </tbody>
+                            </table>
+                            </div>
+                      </div>
+                      <div class="container">
+                        <div class="row">
+                          <p class="text-dark">BODY &nbsp; raw</p><hr>
+                       </div>
+                       <table class="table table-striped bg-muted"><tr><td>http://localhost:8080/api/role</td></tr></table>
+                      </div>
